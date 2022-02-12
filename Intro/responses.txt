@@ -1,1 +1,3 @@
-
+git version 2.30.1 (Apple Git-130)
+Python 2.7.16
+pip 18.1
